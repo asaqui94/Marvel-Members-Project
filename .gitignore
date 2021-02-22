@@ -10,6 +10,10 @@
 
 # production
 /build
+.firebaserc
+firebase.json
+drone-members
+hosting.*
 
 # misc
 .DS_Store
@@ -21,3 +25,4 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+yarn.lock

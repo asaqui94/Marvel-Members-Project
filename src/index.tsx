@@ -61,7 +61,7 @@ render(
 
       <Switch>
         <Route exact path="/">
-          <Home title="Marvel Creations"/>
+          <Home title="Marvel Creation"/>
         </Route>
         <Route path="/create">
           <CreateMarvel />
